@@ -1,0 +1,24 @@
+dateModified: 1673312155
+email:
+  fromEmail: catsnotdrugs@icloud.com
+  fromName: 'Crafty Cats'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    9a3619ac-b0d5-4dd8-b39b-876014f8b25a: 'Crafty Cats' # Crafty Cats
+    82cd4505-855e-471f-a7f0-7f40b18a75a9: Home
+    7502f1fe-1f81-43a4-91d9-8b623d851897: Home
+    ec72d3e3-b99d-4eca-a9b3-037034108de7: 'Crafty Cats' # Crafty Cats
+    ee488be4-9964-432a-abcb-98bad74db5b7: Common # Common
+system:
+  edition: solo
+  live: true
+  name: 'Crafty Cats'
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

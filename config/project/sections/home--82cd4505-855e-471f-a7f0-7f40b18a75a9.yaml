@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: home
+name: Home
+propagationMethod: all
+siteSettings:
+  9a3619ac-b0d5-4dd8-b39b-876014f8b25a: # Crafty Cats
+    enabledByDefault: true
+    hasUrls: true
+    template: home/_entry
+    uriFormat: home
+type: single
